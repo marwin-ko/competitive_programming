@@ -35,7 +35,6 @@ if (N>= 10 & N<=2500) & ((len(nums)-1)>0 & (len(nums)-1)<10**5):
 
 ## Solution #2 (...not reinventing the wheel, lol)
 ```python
-#imports
 import numpy as np
 from scipy import stats
 nums = [int(num) for num in input().split()]
