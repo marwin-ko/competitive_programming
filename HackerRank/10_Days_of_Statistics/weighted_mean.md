@@ -1,6 +1,6 @@
 # Weighted Mean 
 
-[https://www.hackerrank.com/challenges/s10-weighted-mean](https://www.hackerrank.com/challenges/s10-weighted-mean)
+**Challenge:** [https://www.hackerrank.com/challenges/s10-weighted-mean](https://www.hackerrank.com/challenges/s10-weighted-mean)
 
 # Solution #1
 ```python
