@@ -1,6 +1,6 @@
 # Arrays: Left Rotation
 
-[https://www.hackerrank.com/challenges/ctci-array-left-rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
+**Challenge:**[https://www.hackerrank.com/challenges/ctci-array-left-rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)
 
 ```python
 def array_left_rotation(a, n, k):
