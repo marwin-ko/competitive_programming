@@ -1,6 +1,6 @@
 # Mean, Median, and Mode
 
-[https://www.hackerrank.com/challenges/s10-basic-statistics](https://www.hackerrank.com/challenges/s10-basic-statistics)
+**Challenge:** [https://www.hackerrank.com/challenges/s10-basic-statistics](https://www.hackerrank.com/challenges/s10-basic-statistics)
 
 ## Solution #1
 ```python
