@@ -6,3 +6,32 @@
 |**Day**|               **Challenge**               |         **My Solution/Code**         |
 |:-----:|:-----------------------------------------:|:------------------------------------:|
 |0      | Hello, World                              | [Click here for solution/code!](https://github.com/marwin-ko/competitive_programming/blob/master/HackerRank/30_Days_of_Code/hello_world.md)|
+|1      | Data Types                                | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
+|      |                          | [Click here for solution/code!]()|
